@@ -3,7 +3,7 @@
     <h1>👋 Hi, I’m Alejandro Parra</h1>
     <h4>👀 I’m a fullstack developer</h4>
 </div>
-
+---
 <div> 
     <h2>😶‍🌫️ About me</h2>
     <h3>📓 I'm studying systems engineering at utp</h3>
