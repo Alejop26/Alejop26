@@ -33,5 +33,5 @@
     <img src="https://www.ecured.cu/images/5/55/Angular1.jpg" width="40" height="40">
     </div>
 
-### My Stats 
+### 🔺My Stats 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Alejop26&theme=radical&border_radius=10)](https://git.io/streak-stats)
