@@ -32,3 +32,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="40" height="40">
     <img src="https://www.ecured.cu/images/5/55/Angular1.jpg" width="40" height="40">
     </div>
+
+### My Stats 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Alejop26&theme=radical&border_radius=10)](https://git.io/streak-stats)
