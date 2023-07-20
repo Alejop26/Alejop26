@@ -1,7 +1,7 @@
 <div id="header" align="center" > 
     <img src="https://th.bing.com/th/id/OIP.yH6orYEsONd1K517jXIMmQHaEu?pid=ImgDet&rs=1" width="200" />
     <h1>👋 Hi, I’m Alejandro Parra</h1>
-    <h4>👀 I’m a fullstack developer</h4>
+    <h3>👀 I’m a fullstack developer</h3>
 </div>
 
 <div> 
