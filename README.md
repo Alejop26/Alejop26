@@ -17,6 +17,8 @@
     <img src="https://th.bing.com/th/id/OIP.HdITYQ9jthRocqiW--486wHaEb?pid=ImgDet&rs=1" width="40" height="40">
     <img src="https://images.ctfassets.net/vwq10xzbe6iz/Iev7ejAW8ijZD8vdXpEsS/51e3daac341e95a138f715591f8eed66/express-js.png?h=250" width="80" height="40">
     <img src="https://www.ma-no.org/cache/galleries/contents-1603/460-300/instalacion-de-nodejs-en-ubuntu-t1.jpg" width="80" height="40">
+    <img src="https://th.bing.com/th/id/OIP.lw6gydXZSBalBxC7xBfhRQHaHO?pid=ImgDet&rs=1" width="40" height="40">
+     <img src="https://th.bing.com/th/id/R.86a627bd7a966a122f44164ab2b445e7?rik=YChLImhMC9h%2fyw&pid=ImgRaw&r=0" width="40" height="40">    
 </div>
 
 <div> 
