@@ -15,7 +15,7 @@
 <div> 
     <h2>Backend</h2>
     <img src="https://th.bing.com/th/id/OIP.HdITYQ9jthRocqiW--486wHaEb?pid=ImgDet&rs=1" width="40" height="40">
-    <img src="https://images.ctfassets.net/vwq10xzbe6iz/Iev7ejAW8ijZD8vdXpEsS/51e3daac341e95a138f715591f8eed66/express-js.png?h=250" width="60" height="40">
+    <img src="https://images.ctfassets.net/vwq10xzbe6iz/Iev7ejAW8ijZD8vdXpEsS/51e3daac341e95a138f715591f8eed66/express-js.png?h=250" width="80" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40">
 </div>
 
