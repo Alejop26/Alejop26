@@ -8,6 +8,6 @@
 <h2>😶‍🌫️ About me</h2>
 <h3>📓 I'm studying systems engineering at utp</h3>
 <h3>🧠 Ask me about HTML, CSS, JAVASCRIPT </h3>
-<h3>💢I am currently studying React Native </h3>
+<h3>💢 I'm currently studying React Native </h3>
 </div>
 
