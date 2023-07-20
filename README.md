@@ -1,5 +1,7 @@
-<div>
-  https://th.bing.com/th/id/OIP.7KrETSAlmIyHk7cEz1ebOwHaEK?pid=ImgDet&rs=1
+<div id="header" align="center" > 
+    <img src="https://th.bing.com/th/id/OIP.yH6orYEsONd1K517jXIMmQHaEu?pid=ImgDet&rs=1" width="200" />
+    <h1>👋 Hi, I’m Alejandro Parra</h1>
+    <h3>👀 I’m a fullstack developer, currently studying systems engineering at UTP.</h3>
 </div>
 **Alejop26/Alejop26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
