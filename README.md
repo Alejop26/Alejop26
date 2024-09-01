@@ -6,7 +6,7 @@
 
 <div> 
     <h3>😶‍🌫️ <b>About me: </b> </h3>
-    <h3>• 📓 I'm studying systems engineering at utp</h3>
+    <h3>• 📓 I'm studying Computer Science at Universidad Tecnologica de Pereira</h3>
     <h3>• 🧠 Ask me about HTML, CSS, JAVASCRIPT </h3>
     <h3>• 💢 I'm currently studying React Native </h3>
     <h3>• 😋 I love mathematics</h3>
