@@ -22,9 +22,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40">
     <img src="https://img.icons8.com/color/48/000000/sql.png" width="40" height="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40">
+</div>
 
-
-    </div>
-
-### 🔺My Stats 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Alejop26&theme=radical&border_radius=10)](https://git.io/streak-stats)
